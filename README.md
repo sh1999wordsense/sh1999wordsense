@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on any web or mobile related project
 - 📫 How to reach me muhammadiqbalshermuhammad@gmail.com
-- 😄 Pronouns: shani
+- 😄 Pronouns: sheni
 - ⚡ Fun fact: I am married 😄
 
 <!---
