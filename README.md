@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any web or mobile related project
 - 📫 How to reach me muhammadiqbalshermuhammad@gmail.com
 - 😄 Pronouns: sheni
-- ⚡ Fun fact: I am married 😄
 
 <!---
 sh1999wordsense/sh1999wordsense is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
